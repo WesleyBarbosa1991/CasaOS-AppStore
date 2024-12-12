@@ -10,11 +10,6 @@
     "description": "File and Data Backup Apps"
   },
   {
-    "name": "Blog",
-    "font": "post-outline",
-    "description": "Blog Writing and Distribution Apps"
-  },
-  {
     "name": "Chat",
     "font": "chat-processing-outline",
     "description": "Chat Apps"
